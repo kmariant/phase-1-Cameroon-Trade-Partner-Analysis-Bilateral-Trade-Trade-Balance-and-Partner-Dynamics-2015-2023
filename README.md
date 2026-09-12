@@ -11,7 +11,7 @@ UN Comtrade annual trade-value data.
 
 Identify Cameroon's most important trading partners, understand how those relationships have
 evolved between 2015 and 2023, and measure how concentrated Cameroon's trade is among a small
-number of countries — with a closer look at seven countries of interest: **China, Nigeria,
+number of countries with a closer look at seven countries of interest: **China, Nigeria,
 France, Netherlands, Vietnam, India, and the United States**.
 
 ## Headline results (2015-2023, current US$)
